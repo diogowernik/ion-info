@@ -50,8 +50,8 @@ Fields
     :is_published,
     :subdomain_id = 1
     :domain_id = 1
-    :profile_id = Get from current_user
-    tag_publication_kind: [] = Get from subdomain
+    :profile_id = Get from options from current_user
+    tag_publication_kind: [] = Get options from subdomain
     user_id = current_user
 
 #### Upload de imagens
