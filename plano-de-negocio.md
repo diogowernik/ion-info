@@ -10,24 +10,24 @@
     Única forma de comunicação será por mensagens pelo sistema 
     Pode marcar apenas “1 tag” para as opções de tag_location, tag_speciality, etc...
     
-#### B - Pode ter apenas uma Página (Pagina Gratis)
+#### B - Pode ter apenas uma Página - (profile)
 
 **Pagina com restrições**
 
     Não possui o módulo localização
     Não possui o módulo Grade Horária
 
-#### C - Publicações ilimitadas
+#### C - Publicações ilimitadas- (publication)
 
 ### Plano Premium (R$ 120,00 anual)
 
-#### A - Pode criar até 2 cartões de visitas (card)
+#### A - Pode criar até 2 cartões de visitas (cards)
 
 Cartão com restrições
 
     Pode marcar até 3 “ tags” para as opções de tag_location, tag_speciality, etc...
 
-#### B - Pode ter 2 paginas (Pagina Premium)
+#### B - Pode ter 2 paginas - Paginas Premium (profiles)
 
     Todos Módulos disponíveis
 
